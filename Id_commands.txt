@@ -1,0 +1,15 @@
+ Id CommandLine
+  -- -----------
+   1 cd .\Documents\
+   2 cd C:\Users\Admin\Documents\GIT\Mod-2_Git_A1
+   3 ls
+   4 git init
+   5 git status
+   6 git add .\Code.txt .\Output.txt
+   7 git status
+   8 git commit -m "Commiting files code.txt and output.txt"
+   9 git log
+  10 git branch
+  11 git remote add repo1 https://github.com/Sunil-dh1234/Mod-2_Git_A1.git
+  12 git remote -v
+  13 git push repo1 master
